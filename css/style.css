@@ -234,7 +234,7 @@ section {
 .band {
   position: relative;
   min-height: 100vh;
-  max-height: 200vh;
+  /*max-height: 200vh;*/
   color: white;  /*#990000;*/
   /*background: url("../img/20160906-oxtoby-TheBoot_StAlbans.jpg");*/
   /*background-size: cover;*/
